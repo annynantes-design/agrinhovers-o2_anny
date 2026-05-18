@@ -1,6 +1,10 @@
 # Tecnologia no agro (agro tech)
 
-# Inicio: uma apresentação geral do tema.
-tecnologia no agro: Uso de sensores no solo e nas máquinas para monitorar umidade, temperatura e a saúde das plantas em tempo real, Drones são usados para pulverização pontual, mapeamento de falhas de plantio e contagem de plantas, enquanto satélites fornecem imagens térmicas e índices de vegetação.
-Objetivo: Transformar a agricultura tradicional através da inovação, oferecendo ferramentas que otimizam recursos, reduzem custos e aumentam a produtividade no campo. Maximizar o rendimento das lavouras por meio de tecnologias inteligentes e tomadas de decisão baseadas em dados.
-Conteúdo:O uso de tecnologia no agronegócio aumenta a produtividade média em 37% em propriedades conectadas e projeta um crescimento de até 6% no PIB agropecuário para 2025, impulsionado por um ecossistema recorde de 2.075 agtechs. Tecnologias como drones, sensores de precisão, IA e maquinário autônomo otimizam insumos e reduzem custos, enquanto as tendências para 2025-2026 incluem IA generativa e conectividade 5G para rastreabilidade e eficiência operacional.
+# Inicio:
+uma apresentação geral do tema.
+# tecnologia no agro: 
+Uso de sensores no solo e nas máquinas para monitorar umidade, temperatura e a saúde das plantas em tempo real, Drones são usados para pulverização pontual, mapeamento de falhas de plantio e contagem de plantas, enquanto satélites fornecem imagens térmicas e índices de vegetação.
+# Objetivo:
+Transformar a agricultura tradicional através da inovação, oferecendo ferramentas que otimizam recursos, reduzem custos e aumentam a produtividade no campo. Maximizar o rendimento das lavouras por meio de tecnologias inteligentes e tomadas de decisão baseadas em dados.
+# Conteúdo:
+O uso de tecnologia no agronegócio aumenta a produtividade média em 37% em propriedades conectadas e projeta um crescimento de até 6% no PIB agropecuário para 2025, impulsionado por um ecossistema recorde de 2.075 agtechs. Tecnologias como drones, sensores de precisão, IA e maquinário autônomo otimizam insumos e reduzem custos, enquanto as tendências para 2025-2026 incluem IA generativa e conectividade 5G para rastreabilidade e eficiência operacional.
