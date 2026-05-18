@@ -15,5 +15,5 @@ JavaScript está reservado para futuras interatividades (atualmente sem funçõe
 O site é 100% responsivo e funciona bem em computadores, tablets e celulares.
 # Licença:
 Este projeto está licenciado sob MIT License, permitindo use, modificação e distribuição livre, com os devidos créditos.
-# Agradcimentos:
+# Agradecimentos:
 Esse site foi desenvolvido para o concurso agrinho 2026.
